@@ -45,6 +45,23 @@ Developed by: RegisterNumber:*/
 **RTL**
 
 **Timing Diagram**
+Logic Diagram:
+![EXP02 LOGIC DIAGRAM](https://github.com/user-attachments/assets/dcc92de9-7890-4015-8ea0-1265f15985fa)
+
+
+
+
+
+
+
+
+
+State Diagram:
+![EXP02 STATE DIAGRAM](https://github.com/user-attachments/assets/aa15a556-0f5a-406c-9a4b-a5a2111b062f)
+
+
+
+
 
 **Result:**
 
